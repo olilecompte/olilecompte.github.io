@@ -1,10 +1,10 @@
-<!-- ---
-title: "Development of a collision avoidance algorithm for a vehicle in low adhesion conditions"
-excerpt: "This project is aimed at assessing the relevance of developing an intelligent collision avoidance algorithm for a vehicle operating in low adhesion conditions based on the physics characterising the relationship between the vehicle and the road surface. <br/>"
-#<img src='/images/control_architecture_v9.jpg'>"
+---
+title: "Local design and production of masks to protect against COVID-19"
+excerpt: "Our team won the “Fait en Estrie” challenge, aimed at developing an effective face mask that could be manufactured locally at low cost. <br/>"
+
+<br/>
+<img src='/images/OAK_mask.png'>"
 collection: portfolio
 ---
 
-<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
-
-Winter conditions, characterized by the presence of ice and snow on the ground, are more likely to lead to road accidents. This paper presents an experimental proof of concept of a collision avoidance algorithm for vehicles evolving in low adhesion conditions, implemented on a 1/5th scale car platform. In the proposed approach, a model-based estimator first processes the high-dimensional sensors data of the IMU, LIDAR and encoders to estimate physically relevant vehicle and ground conditions parameters such as the inertial velocity of the vehicle v, the friction coefficient µ, the cohesion c and the internal shear angle ϕ. Then, a data-driven predictor is trained to predict the optimal maneuver to perform in the situation characterized by the estimated parameters. Experiments show that it is possible to 1) produce a real-time estimate of the relevant ground parameters, and 2) determine an optimal collision avoidance maneuver based on the estimated parameters. -->
+In the context of the COVID-19 pandemic, the supply of personal protective equipment, and in particular surgical masks, promises to be a challenge over the coming weeks and months. Healthcare workers and those providing essential services are the first to be affected, but the latest government recommendations also advise the general public to wear masks when travelling, if necessary. It is essential to find rapid, local solutions to meet the need for protective masks. With this challenge, the initiative aims to mobilise the student community and the Estrie community to respond locally to this need through the know-how of local suppliers and manufacturers.
