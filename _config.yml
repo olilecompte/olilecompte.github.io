@@ -21,7 +21,7 @@ repository               : "olilecompte/olilecompte.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_oli.jpg"
+  avatar           : "profile_web_photo.jpg"
   name             : "Olivier Lecompte"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in <br/>Mechanical Engineering"
