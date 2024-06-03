@@ -1,6 +1,8 @@
 ---
 title: "A Somatotopic Non Invasive Proprioceptive Feedback Strategy for Robotic Hand Prosthesis Users"
-excerpt: "This project is aimed at developing a non-invasive strategy for the somatotopic and real-time restoration of proprioceptive perception for upper limb prosthesis users. The results of this project will be used in designing more effective hand prostheses. <br/><img src='/images/phd_figure.png'>"
+excerpt: "This project is aimed at developing a non-invasive strategy for the somatotopic and real-time restoration of proprioceptive perception for upper limb prosthesis users. The results of this project will be used in designing more effective hand prostheses. 
+
+<br/><img src='/images/phd_figure.png'>"
 collection: portfolio
 ---
 

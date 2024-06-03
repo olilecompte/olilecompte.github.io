@@ -1,6 +1,8 @@
 ---
 title: "Development of a collision avoidance algorithm for a vehicle in low adhesion conditions"
-excerpt: "This project is aimed at assessing the relevance of developing an intelligent collision avoidance algorithm for a vehicle operating in low adhesion conditions based on the physics characterising the relationship between the vehicle and the road surface. <br/><img src='/images/control_architecture_v9.jpg'>"
+excerpt: "This project is aimed at assessing the relevance of developing an intelligent collision avoidance algorithm for a vehicle operating in low adhesion conditions based on the physics characterising the relationship between the vehicle and the road surface. 
+
+<br/><img src='/images/control_architecture_v9.jpg'>"
 collection: portfolio
 ---
 
