@@ -1,7 +1,6 @@
 ---
 title: "Local design and production of masks to protect against COVID-19"
-excerpt: "Our team won the “Fait en Estrie” challenge, aimed at developing an effective face mask that could be manufactured locally at low cost. <br/>"
-
+excerpt: "Our team won the “Fait en Estrie” challenge, aimed at developing an effective face mask that could be manufactured locally at low cost. <br/>
 <br/>
 <img src='/images/OAK_mask.png'>"
 collection: portfolio
