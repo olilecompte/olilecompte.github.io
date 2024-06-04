@@ -1,6 +1,6 @@
 ---
 title: "Autonomous off-road shuttle - LINK"
-excerpt: "As part of our major design project at the end of our bachelor's degree, our team developed an autonomous off-road shuttle service between the Université de Sherbrooke and the ACELP Innovation Park.<br/>
+excerpt: "As part of our major design project at the end of our bachelor's degree, our team developed an autonomous off-road shuttle service with the aim of linking the Université de Sherbrooke and the ACELP Innovation Park.<br/>
 <br/>
 <img src='/images/link.png'>"
 collection: portfolio
