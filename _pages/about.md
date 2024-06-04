@@ -17,9 +17,10 @@ News
 <!-- <div class="table-responsive">  -->
 <!-- <table class="table table-sm table-borderless">  -->
 <table>
-<tr> <th scope="row">May 31, 2024</th> <td> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
+<tr> <th scope="row">May 30, 2024</th> <td> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
 <tr> <th scope="row">May 23, 2024</th> <td> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
 <tr> <th scope="row">May 08, 2024</th> <td> Nominated by Polytechnique Montréal for Google PhD Fellowship. </td> </tr> 
+<tr> <th scope="row">Jul 24, 2023</th> <td> Poster presentation for 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </td> </tr> 
 <tr> <th scope="row">Apr 23, 2023</th> <td> Awarded the Doctoral research scholarship by FRQNT. </td> </tr> 
 <tr> <th scope="row">Jul 6, 2022</th> <td> Publication of article "Experimental Investigation of a Maneuver Selection Algorithm for Vehicles in Low Adhesion Conditions" in IEEE Transactions on Intelligent Vehicles. </td> </tr>
 </table> 
