@@ -11,7 +11,7 @@ Bonjour! I am a PhD candidate in Mechanical Engineering at [Polytechnique Montr√
 
 Previously, I completed both my Bachelors and Masters at the Universit√© de Sherbrooke, where I worked with Professor [Alexandre Girard](https://www.alexandregirard.com/projects/snowcontrol.html) on emergency maneuver selection algorithm for vehicles in low adhesion conditions.
 
-News
+Recent News
 ======
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
