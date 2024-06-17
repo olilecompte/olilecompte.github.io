@@ -16,7 +16,8 @@ News
 
 <!-- <div class="table-responsive">  -->
 <!-- <table class="table table-sm table-borderless">  -->
-<table>
+<!-- <table> -->
+<table style="border: none; border-collapse: collapse;">
 <tr> <th scope="row">Jun 14, 2024</th> <td> Awarded the Mitacs Globalink Research Award. </td> </tr> 
 <tr> <th scope="row">May 30, 2024</th> <td> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
 <tr> <th scope="row">May 23, 2024</th> <td> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
