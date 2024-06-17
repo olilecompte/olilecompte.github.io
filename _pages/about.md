@@ -14,10 +14,21 @@ Previously, I completed both my Bachelors and Masters at the Université de Sher
 News
 ======
 
+<table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr> <th style="border: none;" scope="row">Jun 14, 2024</th> <td style="border: none;"> Accepted for the Mitacs Globalink Research Award. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">May 30, 2024</th> <td style="border: none;"> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">May 23, 2024</th> <td style="border: none;"> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">May 08, 2024</th> <td style="border: none;"> Nominated by Polytechnique Montréal for Google PhD Fellowship. </td> </tr>
+    <tr> <th style="border: none;" scope="row">Apr 01, 2024</th> <td style="border: none;"> Our research project was awarded the Research Tools and Instruments grants program from NSERC. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">Jul 24, 2023</th> <td style="border: none;"> Poster presentation "Giving back proprioceptive perception to upper-limb prosthesis users" for 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">Apr 23, 2023</th> <td style="border: none;"> Awarded the Doctoral research scholarship by FRQNT. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">Jul 6, 2022</th> <td style="border: none;"> Publication of article "Experimental Investigation of a Maneuver Selection Algorithm for Vehicles in Low Adhesion Conditions" in IEEE Transactions on Intelligent Vehicles. </td> </tr>
+</table>
+
 <!-- <div class="table-responsive">  -->
 <!-- <table class="table table-sm table-borderless">  -->
 <!-- <table> -->
-<table style="border: none; border-collapse: collapse;">
+<!-- <table style="border: none; border-collapse: collapse;">
 <tr> <th scope="row">Jun 14, 2024</th> <td> Awarded the Mitacs Globalink Research Award. </td> </tr> 
 <tr> <th scope="row">May 30, 2024</th> <td> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
 <tr> <th scope="row">May 23, 2024</th> <td> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
@@ -26,7 +37,7 @@ News
 <tr> <th scope="row">Jul 24, 2023</th> <td> Poster presentation for 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </td> </tr> 
 <tr> <th scope="row">Apr 23, 2023</th> <td> Awarded the Doctoral research scholarship by FRQNT. </td> </tr> 
 <tr> <th scope="row">Jul 6, 2022</th> <td> Publication of article "Experimental Investigation of a Maneuver Selection Algorithm for Vehicles in Low Adhesion Conditions" in IEEE Transactions on Intelligent Vehicles. </td> </tr>
-</table> 
+</table>  -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
