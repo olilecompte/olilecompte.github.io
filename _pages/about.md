@@ -9,6 +9,8 @@ redirect_from:
 
 Bonjour! I am a PhD candidate in Mechanical Engineering at [Polytechnique Montréal](https://www.polymtl.ca/), where I investigate novel strategies to convey artificial somatosensory feedback with the [POLAR Lab](https://www.polarlab.ca/home) under the Supervision of Professor [Abolfazl Mohebbi](https://www.polymtl.ca/expertises/mohebbi-abolfazl-0) and Professor [Sofiane Achiche](https://www.polymtl.ca/expertises/achiche-sofiane). My main research focus is on developping a somatotopic non-invasive proprioceptive feedback strategy for robotic hand prosthesis users. 
 
+I recently completed a research visit to the Plasticity Lab at the University of Cambridge during Fall 2024, where I had the privilege of collaborating with a brilliant team of scientists. The experience was both intellectually stimulating and professionally transformative, offering invaluable insights that have shaped my approach to integrating artificial sensory feedback.
+
 Previously, I completed both my Bachelors and Masters at the Université de Sherbrooke, where I worked with Professor [Alexandre Girard](https://www.alexandregirard.com/projects/snowcontrol.html) on emergency maneuver selection algorithm for vehicles in low adhesion conditions.
 
 Recent News
