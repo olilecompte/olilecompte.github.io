@@ -17,6 +17,7 @@ Recent News
 ======
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr> <th style="border: none;" scope="row">Aug 26, 2024</th> <td style="border: none;"> I started my academic research visit with the Plasticity Lab, led by Prof Tamar Makin, based at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. </td> </tr>
     <tr> <th style="border: none;" scope="row">Jun 14, 2024</th> <td style="border: none;"> Accepted for the Mitacs Globalink Research Award. </td> </tr> 
     <tr> <th style="border: none;" scope="row">May 30, 2024</th> <td style="border: none;"> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
     <tr> <th style="border: none;" scope="row">May 23, 2024</th> <td style="border: none;"> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
