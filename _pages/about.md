@@ -11,6 +11,8 @@ Bonjour! I am a Postdoctoral Research Associate working on Haptic Biofeedback fo
 
 I completed a PhD in Mechanical Engineering at [Polytechnique Montréal](https://www.polymtl.ca/), where I investigated novel strategies to convey artificial somatosensory feedback with the [POLAR Lab](https://www.polarlab.ca/home) under the Supervision of Professor [Abolfazl Mohebbi](https://www.polymtl.ca/expertises/mohebbi-abolfazl-0) and Professor [Sofiane Achiche](https://www.polymtl.ca/expertises/achiche-sofiane). My main research focus is on developping a somatotopic non-invasive proprioceptive feedback strategy for robotic hand prosthesis users. 
 
+I recently completed a research visit to the [Plasticity Lab](https://plasticity-lab.com/) at the University of Cambridge during Fall 2024, where I had the privilege of collaborating with a brilliant team of scientists. The experience was both intellectually stimulating and professionally transformative, offering invaluable insights that have shaped my approach to integrating artificial sensory feedback.
+
 Previously, I completed both my Bachelors and Masters at the Université de Sherbrooke, where I worked with Professor [Alexandre Girard](https://www.alexandregirard.com/projects/snowcontrol.html) on emergency maneuver selection algorithm for vehicles in low adhesion conditions.
 
 Recent News
@@ -25,7 +27,7 @@ Recent News
     <tr> <th style="border: none;" scope="row">May 30, 2024</th> <td style="border: none;"> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
     <tr> <th style="border: none;" scope="row">May 23, 2024</th> <td style="border: none;"> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
     <tr> <th style="border: none;" scope="row">May 08, 2024</th> <td style="border: none;"> Nominated by Polytechnique Montréal for Google PhD Fellowship. </td> </tr>
-    <tr> <th style="border: none;" scope="row">Apr 01, 2024</th> <td style="border: none;"> Our research project was awarded the Research Tools and Instruments (RTI) grant from NSERC. </td> </tr> 
+    <tr> <th style="border: none;" scope="row">Apr 01, 2024</th> <td style="border: none;"> Our research project was awarded a Research Tools and Instruments (RTI) grant from NSERC. </td> </tr> 
     <tr> <th style="border: none;" scope="row">Jul 24, 2023</th> <td style="border: none;"> Poster presentation "Giving back proprioceptive perception to upper-limb prosthesis users" for 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </td> </tr> 
     <tr> <th style="border: none;" scope="row">Apr 23, 2023</th> <td style="border: none;"> Awarded the Doctoral research scholarship by FRQNT. </td> </tr> 
     <tr> <th style="border: none;" scope="row">Jul 6, 2022</th> <td style="border: none;"> Publication of article "Experimental Investigation of a Maneuver Selection Algorithm for Vehicles in Low Adhesion Conditions" in IEEE Transactions on Intelligent Vehicles. </td> </tr>
