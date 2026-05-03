@@ -24,11 +24,11 @@ author:
   avatar           : "profile_web_photo.jpg"
   name             : "Olivier Lecompte"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in <br/>Mechanical Engineering"
-  location         : "Montréal, Québec, Canada"
-  employer         : "Polytechnique Montréal"
+  bio              : "Postdoctoral Research Associate <br/> Haptic Biofeedback for Motor Augmentation" # "PhD Candidate in <br/>Mechanical Engineering"
+  location         : "Cambridge, England, United Kingdom" # "Montréal, Québec, Canada"
+  employer         : "University of Cambridge" # "Polytechnique Montréal"
   uri              : # URL
-  email            : "olivier.lecompte@polymtl.ca" 
+  email            : "Olivier.Lecompte@mrc-cbu.cam.ac.uk" # olivier.lecompte@polymtl.ca
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
