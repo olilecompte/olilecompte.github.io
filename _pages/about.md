@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Bonjour! I am a PhD candidate in Mechanical Engineering at [Polytechnique Montréal](https://www.polymtl.ca/), where I investigate novel strategies to convey artificial somatosensory feedback with the [POLAR Lab](https://www.polarlab.ca/home) under the Supervision of Professor [Abolfazl Mohebbi](https://www.polymtl.ca/expertises/mohebbi-abolfazl-0) and Professor [Sofiane Achiche](https://www.polymtl.ca/expertises/achiche-sofiane). My main research focus is on developping a somatotopic non-invasive proprioceptive feedback strategy for robotic hand prosthesis users. 
+Bonjour! I am a Postdoctoral Research Associate working on Haptic Biofeedback for Motor Augmentation with the [Plasticity Lab](https://plasticity-lab.com/), led by Prof [Tamar Makin](https://www.mrc-cbu.cam.ac.uk/people/tamar.makin/), based at the MRC Cognition and Brain Sciences Unit at the University of Cambridge.
+
+I completed a PhD in Mechanical Engineering at [Polytechnique Montréal](https://www.polymtl.ca/), where I investigated novel strategies to convey artificial somatosensory feedback with the [POLAR Lab](https://www.polarlab.ca/home) under the Supervision of Professor [Abolfazl Mohebbi](https://www.polymtl.ca/expertises/mohebbi-abolfazl-0) and Professor [Sofiane Achiche](https://www.polymtl.ca/expertises/achiche-sofiane). My main research focus is on developping a somatotopic non-invasive proprioceptive feedback strategy for robotic hand prosthesis users. 
 
 Previously, I completed both my Bachelors and Masters at the Université de Sherbrooke, where I worked with Professor [Alexandre Girard](https://www.alexandregirard.com/projects/snowcontrol.html) on emergency maneuver selection algorithm for vehicles in low adhesion conditions.
 
@@ -15,7 +17,10 @@ Recent News
 ======
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
-    <tr> <th style="border: none;" scope="row">Aug 26, 2024</th> <td style="border: none;"> I started my academic research visit with the Plasticity Lab, led by Prof Tamar Makin, based at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. </td> </tr>
+    <tr> <th style="border: none;" scope="row">Apr 07, 2026</th> <td style="border: none;"> Started a new position as a Postdoctoral Research Associate with the Plasticity Lab, University of Cambridge. </td> </tr>
+    <tr> <th style="border: none;" scope="row">Feb 12, 2026</th> <td style="border: none;"> Graduated from my PhD in Mechanical Engineering at Polytechnique Montréal. Thesis: Development of a Non-Invasive Proprioceptive Feedback Strategy for Upper-Limb Robotic Prosthesis Users.  </td> </tr>
+    <tr> <th style="border: none;" scope="row">Sep 30, 2025</th> <td style="border: none;"> Publication of article "Somatotopic non-invasive proprioceptive feedback strategy for prosthetic hands: A preliminary study" in Biomedical Physics & Engineering Express. </td> </tr>
+    <tr> <th style="border: none;" scope="row">Aug 26, 2024</th> <td style="border: none;"> Started an academic research visit with the Plasticity Lab, led by Prof Tamar Makin, based at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. </td> </tr>
     <tr> <th style="border: none;" scope="row">Jun 14, 2024</th> <td style="border: none;"> Accepted for the Mitacs Globalink Research Award. </td> </tr> 
     <tr> <th style="border: none;" scope="row">May 30, 2024</th> <td style="border: none;"> Publication of article "A Review of Proprioceptive Feedback Strategies for Upper-Limb Myoelectric Prostheses" in IEEE Transactions on Medical Robotics and Bionics. </td> </tr> 
     <tr> <th style="border: none;" scope="row">May 23, 2024</th> <td style="border: none;"> Publication of co-authored article "Using the Buckingham π Theorem for Multi-System Transfer Learning: A Case-Study with 3 Vehicles Sharing a Database" in Electronics. </td> </tr> 
