@@ -20,6 +20,7 @@ Recent News
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
     <tr> <th style="border: none;" scope="row">Apr 07, 2026</th> <td style="border: none;"> Joined the Plasticity Lab at the University of Cambridge as a Postdoctoral Research Associate. </td> </tr>
+    <tr> <th style="border: none;" scope="row">Mar 24, 2026</th> <td style="border: none;"> Awarded a Méritas for excellence in teaching as a teaching assistant. </td> </tr>
     <tr> <th style="border: none;" scope="row">Feb 12, 2026</th> <td style="border: none;"> Completed my PhD in Mechanical Engineering at Polytechnique Montréal, graduating with “mention d’excellence.” Thesis: Development of a Non-Invasive Proprioceptive Feedback Strategy for Upper-Limb Robotic Prosthesis Users.  </td> </tr>
     <tr> <th style="border: none;" scope="row">Sep 30, 2025</th> <td style="border: none;"> Published "Somatotopic non-invasive proprioceptive feedback strategy for prosthetic hands: A preliminary study" in Biomedical Physics & Engineering Express. </td> </tr>
     <tr> <th style="border: none;" scope="row">Aug 26, 2024</th> <td style="border: none;"> Began an academic research visit with the Plasticity Lab, led by Prof Tamar Makin, based at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. </td> </tr>
