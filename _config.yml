@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Olivier Lecompte"
 title_separator          : "-"
 name                     : &name "Olivier Lecompte"
-description              : &description "personal description"
-url                      : https://olilecompte.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoctoral Research Associate at the University of Cambridge working on haptic biofeedback, motor augmentation, prosthetics, and non-invasive proprioceptive feedback."
+url                      : https://olilecompte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olilecompte/olilecompte.github.io"
 
@@ -130,10 +130,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Olivier Lecompte" # If the user or organization name differs from the site's name
+  links:
+    - "https://scholar.google.com/citations?user=3DA1GGIAAAAJ&hl=fr"
+    - "https://orcid.org/0000-0001-9327-6118"
+    - "https://github.com/olilecompte"
+    - "https://www.linkedin.com/in/olivier-lecompte-764905132"
 
 # Analytics
 analytics:
